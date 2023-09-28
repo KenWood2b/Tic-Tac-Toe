@@ -10,7 +10,8 @@
 #### Игровой процесс
 1. При запуске игры автоматичиски выбирается X или O:
 
-![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/eb59d1cd-705a-4acf-93f6-578d11d32e70)
+![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/5eb08bd9-4b62-4fad-9a52-8f29a5c1f6b4)
+
 
 2. После хода игрока X, ход переходит на игрока О:
 
