@@ -20,9 +20,11 @@
 
 3. При выполнении условий на экране появляется надпись победы(Win) и поле блокируется:
 
-![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/2289e98b-c68b-4d6f-ba15-dab6749f00d2)
+![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/a5792acb-f9ea-4c40-9854-92f2c0ff3353)
+
 
 4. При нажатии кнопки Новая игра(New Game) начиаеться новая игра:
 
-![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/0f187a84-e026-4041-b53d-5e611eaf1577)
+![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/229d9b6c-ea2d-4fa0-a087-3f8aaea012fc)
+
 
