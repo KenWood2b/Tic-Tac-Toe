@@ -15,7 +15,8 @@
 
 2. После хода игрока X, ход переходит на игрока О:
 
-![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/cc48f580-ad11-444c-a5c6-a1f148b87d03)
+![image](https://github.com/KenWood2b/Tic-Tac-Toe/assets/146090806/96e2a836-5397-4f4e-9db4-31126b7fa5cf)
+
 
 3. При выполнении условий на экране появляется надпись победы(Win) и поле блокируется:
 
